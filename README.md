@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖖 Olá!, meu nome é Vinícius e eu sou um estudante de Sistemas de Informação!<br>👨‍💻 Atualmente estou estudando a linguagem Javascript<br>com foco em desenvolvimento web!<br>💼 Tenho como objetivo profissional evoluir e prosperar <br>uma carreira como Desenvolvedor Front-End!
+🖖 Olá!, meu nome é Vinícius e eu sou um estudante de Análise e Desenvolvimento de Sistemas!<br>👨‍💻 Atualmente estou estudando as linguagens Java e C#<br>com foco em desenvolvimento web!<br>💼 Tenho como objetivo profissional evoluir e prosperar <br>uma carreira como Desenvolvedor FullStack!
 
 
 ## 🌐 Socials:
