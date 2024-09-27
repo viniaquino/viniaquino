@@ -1,6 +1,5 @@
 # 💫 About Me:
-🖖 Olá!, meu nome é Vinícius e eu sou um estudante de Análise e Desenvolvimento de Sistemas!<br>👨‍💻 Atualmente estou estudando as linguagens Java e C# com foco em desenvolvimento web!<br>💼 Tenho como objetivo profissional evoluir e prosperar uma carreira como Desenvolvedor FullStack!
-
+🖖 Hello There! My name is Vinícius and i am a Systems Analysis and Development student!<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quinofrombrazil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vini-aquino) 
@@ -11,12 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=viniaquino&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=viniaquino&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniaquino&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viniaquino&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=viniaquino&icon=2&color=2)](https://visitcount.itsvg.in)
