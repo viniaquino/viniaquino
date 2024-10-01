@@ -27,4 +27,6 @@
 # Socials:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
+![Content](https://camo.githubusercontent.com/368b4987026d1a1306b332d29d3a64ace657b005427aeaec92078c3ef95600b4/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d454143433434266865696768743d3132302673656374696f6e3d666f6f746572)
+
 
