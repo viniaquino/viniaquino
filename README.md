@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:150px" width=80% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
+<img align="center" style="margin-bottom:100px" width=90% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F738&width=435&lines=Hello+there!+I'm+Vinicius.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
