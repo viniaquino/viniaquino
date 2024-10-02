@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=90% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F738&width=435&lines=Hello+there!+I'm+Vinicius.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
@@ -27,8 +27,15 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Socials:
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-![Content](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
+<div>
+<a href="mailto:contato.viniaquino@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vini-aquino/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/quinofrombrazil/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient"/>
+
 
 
