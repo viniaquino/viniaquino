@@ -1,9 +1,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
+</br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F738&width=435&lines=Hello+there!+I'm+Vinicius.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F738&width=435&center=true&vCenter=true&lines=Hello+there!+I'm+Vinicius.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=viniaquino&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniaquino&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
+
+<div style="margin-bottom:100px">
+  <img width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=viniaquino&theme=radical&hide_border=false"/>
+  <img width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniaquino&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 # Skills
 #### Main Stack </br>
