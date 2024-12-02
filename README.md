@@ -1,12 +1,13 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
 </br>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F738&width=435&center=true&vCenter=true&lines=Hello+there!+I'm+Vinicius.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 </br>
 
 <div style="margin-bottom:100px">
-  <img width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=viniaquino&theme=radical&hide_border=false"/>
+  <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=viniaquino&theme=radical"/>
   <img width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniaquino&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
@@ -33,7 +34,7 @@
 
 # Socials:
 
-<div>
+<div align="center">
 <a href="mailto:contato.viniaquino@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vini-aquino/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/quinofrombrazil/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
