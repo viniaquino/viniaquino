@@ -1,8 +1,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/viniaquino/viniaquino/blob/main/backg.png" /></br>
 </br>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F738&width=435&center=true&vCenter=true&lines=Hello+there!+I'm+Vinicius.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=1FF736&background=000000F8&center=true&vCenter=true&width=435&lines=Hello+everyone!+My+name+is+Vinicius.;Welcome+to+my+github+profile!" alt="Typing SVG" /></a>
+</div>
 
 </br>
 
